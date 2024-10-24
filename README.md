@@ -1,9 +1,5 @@
 # Google-Search-Analysis
 
-**Ankita Priya**  
-
-*Pre-final year Computer Science undergrad @ B.I.T Mesra* 
-
 ## Purpose 
 
 This repository consists of Google search analysis with Python.
